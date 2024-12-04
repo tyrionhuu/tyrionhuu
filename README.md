@@ -4,5 +4,5 @@
 
 </div>
 
-- 🔭 I’m currently working on the application of LLM 
-- 🌱 I’m currently learning a lot of things
+- 🔭 I’m currently working on the LLM application, LLM eval… 
+- 🌱 I’m currently learning French, German, LLM eval, iOS dev…
