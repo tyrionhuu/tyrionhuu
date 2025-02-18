@@ -5,4 +5,4 @@
 </div>
 
 - 🔭 I’m currently working on the LLM application, LLM eval… 
-- 🌱 I’m currently learning French, German, LLM eval, iOS dev…
+- 🌱 I’m currently learning French, German, Italian, LLM eval, iOS dev…
