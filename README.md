@@ -3,7 +3,7 @@ v<div align="center">
 </div>
 
 <div align="center">
-  <a href="mailto:tyrionhuu@gmail.com">
+  <a href="mailto:tyrionhuu@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/>
   </a>
   <a href="https://tyrionhuu.github.io">
