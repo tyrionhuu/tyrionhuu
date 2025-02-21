@@ -14,5 +14,4 @@ v<div align="center">
 </div>
 
 
-[![My github activity graph](https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Github Activity Graph](https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu)
