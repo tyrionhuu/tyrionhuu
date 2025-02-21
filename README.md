@@ -15,5 +15,5 @@ v<div align="center">
 
 
 <div align="center">
-  ![Github Activity Graph](https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu)
+  <img src="https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu" alt="Github Activity Graph"/>
 </div>
