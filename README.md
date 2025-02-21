@@ -13,8 +13,4 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/activity-graph">
-    <img src="https://activity-graph-pearl.vercel.app/?user=tyrionhuu" alt="Github Activity Graph"/>
-  </a>
-</div>
+![Github Activity Graph](<{activity-graph-pearl.vercel.app}.vercel.app>/graph?username=<username>)
