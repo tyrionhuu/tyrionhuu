@@ -13,4 +13,4 @@
   </a>
 </div>
 
-![Github Activity Graph](<{activity-graph-pearl.vercel.app}.vercel.app>/graph?username=<username>)
+![Github Activity Graph](activity-graph-pearl.vercel.app/graph?username=<tyrionhuu>)
