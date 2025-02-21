@@ -1,6 +1,4 @@
-<div align="center">
-# Hi there 👋, it's Tianyu Hu
-</div>
+<h2 align="center">Hi there 👋, it's Tianyu Hu</h2>
 
 <p align="center">
   <a href="mailto:tyrionhuu@gmail.com" style="display: inline-block; margin-right: 10px;">
