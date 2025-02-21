@@ -15,5 +15,5 @@ v<div align="center">
 
 
 <div align="center">
-  <img src="https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu&custom_title=Tianyu%20Hu's%20Github%20Activity&hide_border=true&theme=xcode" alt="Github Activity Graph"/>
+  <img src="https://activity-graph-pearl.vercel.app/graph?username=tyrionhuu&custom_title=Tianyu%20Hu's%20Github%20Activity&hide_border=true&github-compact" alt="Github Activity Graph"/>
 </div>
