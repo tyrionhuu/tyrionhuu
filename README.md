@@ -3,10 +3,10 @@ v<div align="center">
 </div>
 
 <div align="center">
-  <a href="mailto:tyrionhuu@gmail.com" style="margin-right: 20px;">
+  <a href="mailto:tyrionhuu@gmail.com" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/>
   </a>
-  <a href="https://tyrionhuu.github.io">
+  <a href="https://tyrionhuu.github.io" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/>
   </a>
 </div>
