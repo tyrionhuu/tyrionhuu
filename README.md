@@ -2,14 +2,14 @@
 # Hi there 👋, it's Tianyu Hu
 </div>
 
-<div align="center">
+<p align="center">
   <a href="mailto:tyrionhuu@gmail.com" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/>
   </a>
   <a href="https://tyrionhuu.github.io" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/>
   </a>
-</div>
+</p>
 
 - 🔭 I’m currently working on the LLM application, LLM eval… 
 - 🌱 I’m currently learning French, German, Italian, LLM eval, iOS dev…
