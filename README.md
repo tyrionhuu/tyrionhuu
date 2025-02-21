@@ -1,4 +1,4 @@
-v<div align="center">
+<div align="center">
 # Hi there 👋, it's Tianyu Hu
 </div>
 
