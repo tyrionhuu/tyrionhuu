@@ -14,4 +14,4 @@ v<div align="center">
 </div>
 
 
-![Github Activity Graph]({activity-graph-pearl.vercel.app}.vercel.app/?username=<tyrionhuu>)
+![Github Activity Graph](activity-graph.vercel.app/?username=tyrionhuu)
