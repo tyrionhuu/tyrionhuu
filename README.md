@@ -1,11 +1,19 @@
 v<div align="center">
 # Hi there 👋, it's Tianyu Hu
 </div>
+
 <div align="center">
   <a href="tyrionhuu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/>
   </a>
 </div>
+
+<div align="center">
+  <a href="tyrionhuu.github.io">
+    <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/>
+  </a>
+</div>
+
 - 🔭 I’m currently working on the LLM application, LLM eval… 
 - 🌱 I’m currently learning French, German, Italian, LLM eval, iOS dev…
 
