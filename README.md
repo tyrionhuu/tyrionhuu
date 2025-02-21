@@ -1,4 +1,4 @@
-<div align="center">
+v<div align="center">
   
 # Hi there 👋, it's Tianyu Hu
 
@@ -14,4 +14,4 @@
 </div>
 
 
-![Github Activity Graph](activity-graph-91iv7hwua-tyrionhuus-projects.vercel.app/graph?username=<tyrionhuu>)
+![Github Activity Graph](activity-graph.vercel.app/?username=<tyrionhuu>)
