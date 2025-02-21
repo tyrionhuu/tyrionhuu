@@ -12,4 +12,4 @@
     <img src="https://github-readme-streak-stats-two-gules.vercel.app/?user=tyrionhuu" alt="GitHub Streak"/>
   </a>
 </div>
-![Github Activity Graph](<activity-graph-pearl.vercel.app>/graph?username=<tyrionhuu>)
+![Github Activity Graph](<activity-graph-pearl.vercel.app>/graph?username=<username>)
