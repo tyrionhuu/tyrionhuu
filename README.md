@@ -7,4 +7,8 @@
 - 🔭 I’m currently working on the LLM application, LLM eval… 
 - 🌱 I’m currently learning French, German, Italian, LLM eval, iOS dev…
 
-[![GitHub Streak](https://github-readme-streak-stats-two-gules.vercel.app/?user=tyrionhuu)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-two-gules.vercel.app/?user=tyrionhuu" alt="GitHub Streak"/>
+  </a>
+</div>
