@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/activity-graph-pearl">
+  <a href="https://git.io/activity-graph">
     <img src="https://activity-graph-pearl.vercel.app/?user=tyrionhuu" alt="Github Activity Graph"/>
   </a>
 </div>
