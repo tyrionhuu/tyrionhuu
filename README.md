@@ -1,12 +1,8 @@
-<h2 align="center">Hi there 👋, it's Tianyu Hu</h2>
+<h1 align="center">Hi there 👋, it's Tianyu Hu</h1>
 
 <p align="center">
-  <a href="mailto:tyrionhuu@gmail.com" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/>
-  </a>
-  <a href="https://tyrionhuu.github.io" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/>
-  </a>
+<a href="mailto:tyrionhuu@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue" alt="Email Me"/></a>
+<a href="https://tyrionhuu.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/></a>
 </p>
 
 - 🔭 I’m currently working on the LLM application, LLM eval… 
