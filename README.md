@@ -5,8 +5,8 @@
 <a href="https://tyrionhuu.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Visit Website"/></a>
 </p>
 
-- 🔭 I’m currently working on the LLM application, LLM eval… 
-- 🌱 I’m currently learning French, German, Italian, LLM eval, iOS dev…
+- 🔭 I’m currently working on the LLM agents, LLM judges, LLM eval… 
+- 🌱 I’m currently learning French, German, Italian, LLM, iOS dev…
 
 <div align="center">
   <a href="https://git.io/streak-stats">
