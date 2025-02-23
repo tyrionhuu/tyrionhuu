@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-two-gules.vercel.app/?user=tyrionhuu" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-two-gules.vercel.app/?user=tyrionhuu&theme=github-dark" alt="GitHub Streak"/>
   </a>
 </div>
 
